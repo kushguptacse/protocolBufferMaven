@@ -7,6 +7,5 @@ package com.protobuf.sample;
 public class App {
 	public static void main(String[] args) {
 		System.out.println("main started !!!");
-
 	}
 }
